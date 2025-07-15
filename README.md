@@ -42,7 +42,7 @@ It combines exploratory analysis, predictive modeling, business insights, and a 
 - 🍩 Donut chart of PaymentMethod by Churn
 - 📶 InternetService vs Churn column chart
 
-![Dashboard Preview](visuals/dashboard_preview.png)
+![Dashboard Preview](churn_dashboard.png)
 ---
 
 ## 📚 Business Insights (SQL)
