@@ -54,7 +54,7 @@ Here are a few highlights from SQL analysis:
 - 👥 **New customers** (low tenure) churn more frequently
 - 💰 Estimated revenue loss due to churn is significant
 
-> Find all SQL queries and insights in [`sql/churn_queries.sql`](sql/churn_queries.sql)
+> Find all SQL queries and insights in [`Customer_Churn.sql`](Customer_Churn.sql)
 
 ---
 
